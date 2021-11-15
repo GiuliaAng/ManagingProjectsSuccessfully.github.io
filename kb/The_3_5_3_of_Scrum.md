@@ -1,8 +1,8 @@
 ---
 title: The_3_5_3_of_Scrum
-tags: agil klassisch
+tags: klassisch
 author: GiuliaAng
-anrechnung: k oder a
+anrechnung: k
 ---
 
 Kurzbeschreibung zu The_3_5_3_of_Scrum um ein erstes Verständnis dafür zu schaffen um was es hier geht.
@@ -93,7 +93,7 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* Weiterfuehrende Literatur zum Thema z.B. Bücher, Websiten, Blogs, Videos, Wissenschaftliche Literatur, ...
 
 # Quellen
 

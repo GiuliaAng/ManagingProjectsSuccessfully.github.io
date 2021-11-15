@@ -5,6 +5,68 @@ author: GiuliaAng
 anrechnung: k
 ---
 
+# The 3-5-3 of SCRUM
+
+The 3-5-3 of Scrum umfasst die Methode, nach der sich ein agiles Team in ihrem Projekt organisiert. Hierbei steht 3-5-3 für folgendes: [^1]
+
+
+
+Dies folgt aus dem erweiterten Verständnis für die allgemeine Definition von SCRUM. Dabei wird SCRUM anhand eines 5-3-5-3-3 Modelles erklärt und erweitert das 3-5-3 Modell um 5 Werte und 3 Verpflichtungen. Genauer eingegangen auf die SCRUM Methode wird unter XXX.
+
+![Grundprinzip](The_3_5_3_of_Scrum/Uebersicht.jpg)
+
+## Die 3 Rollen
+
+* Product Owner (PO)
+* SCRUM Master
+* Das Team
+
+Die Aufgaben des Product Owners sind primär das Backlog zu pflegen. Dies erfolgt durch eine stetige Priorisierung des Backlogs und eine klare Kommunikation der Inhalte an das Team. Da der Product Owner den Kunden vertritt hat dieser auch die Verantwortung die Vision des Kunden zu vermitteln und besitzt daher auch das Recht eine finale Entscheidung zu treffen über das weitere Vorgehen im Projekt. 
+Der SCRUM Master ist im Gegensatz zum Product Owner mehr in das Team integriert. Dabei ist er nicht explizit Teammitglied sondern sorgt vielmehr dafür, dass das Team gut arbeiten kann. Würde dieser fehlen würde es das Team nicht ungestört arbeiten können, da sie neben ihren übrigen Aufgaben auch die Organisation und Fortschritte im Blick behalten müssen.
+Demnach ist das Team lediglich dafür zuständig das vom Kunden geforderte Produkt zu entwickelt. Dabei ist lediglich das Ziel vorgegeben jedoch nicht die Art und Weise wie dieses Ziel erreicht werden soll.
+
+## Die 5 Events
+
+* Sprint
+* Daily
+* Sprint Review
+* Sprint Retrospective
+* Sprint Planning
+
+Ein Sprint ist ein festgelegter Zeitraum, in welchem die sonstigen Events stattfinden. Die Länge eines Sprints zu Anfang eines Projekts festgelegt und kann zum Beispiel eine zwei oder bis zu vier Wochen umfassen.
+Täglich findet während eines Sprints das Daily statt. Hiermit wird die Kommunikation zwischen den Teammitgliedern gefördert sowie ein konstanter Austausch über die erreichten Fortschritte. Dabei sollen Impediments sichtbar gemacht werden genauso wie die Zusammenarbeit gesteigert werden.
+Im Sprint Review wird dann der abgeschlossene Sprint bewertet. Dabei wird optimalerweise ein neues Product Increment betrachtet und die erreichten Fortschritte durchgesprochen. Hier sollte durch die Stakeholder auch ein Feedback gegeben werden.
+Während einer Sprint Retrospektive wird in kurzer Zeit die Arbeitsweise des Sprints bewertet. So können hier Erfolge gelobt werden und Verbesserungsvorschläge eingebracht werden, welche das Team zu einer gesteigerten Produktivität sowie mehr Freude an der Arbeit verhelfen soll.
+Im Sprint Planning wird schließlich der neu startende Sprint geplant werden. Dafür muss das Product Backlog, welches in einem Backlog Refinement priorisiert wurde, herangezogen werden. Die wichtigsten Aufgaben werden in den neuen Sprint mitaufgenommen. Oft werden hierfür Tools wie Jira benutzt.
+
+## Die 3 Artefakte
+
+* Product Backlog
+* Sprint Backlog
+* Product Increment
+
+Im Produkt Backlog wird das Ziel beschrieben. Dabei werden die dafür nötigen Schritte in sogenannte User Stories aufgeteilt, welche durch den Product Owner priorisiert werden. Man kann es sich vorstellen, wie eine Produkt Roadmap, an welcher sich das Team orientiert.
+Die Kurzform davon ist das Sprint Backlog. Hier werden allein die zu erledigenden Aufgabenpakete für den aktuellen Sprint zusammengefasst. Das verhindert, dass sich die Teammitglieder von den vorgegebenen Zielen abkommen, und bildet den Rahmen für einen Sprint.
+Am Ende eines Sprints wird angestrebt ein potenziell lieferbares Produkt Inkrement vorstellen zu können. Das gibt die Möglichkeit, dass Stakeholder direkt das Inkrement nach jedem Sprint begutachten können, und bietet eine Grundlage, auf der in dem folgenden Sprint weitergearbeitet werden kann.
+
+# Siehe auch
+
+
+
+# Weiterführende Literatur
+https://agile-andy.com/what-is-the-3-5-3-of-scrum/
+
+
+# Quellen
+
+[^1]: https://www.scruminc.com/the-3-5-3-of-scrum/
+[^2]: [Understanding SCRUM: The 3-5-3 of SCRUM](https://medium.com/agile-outside-the-box/understanding-scrum-the-scrum-5-3-5-3-3-d8c2553899df)
+
+
+
+
+
+
 Kurzbeschreibung zu The_3_5_3_of_Scrum um ein erstes Verständnis dafür zu schaffen um was es hier geht.
 
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut

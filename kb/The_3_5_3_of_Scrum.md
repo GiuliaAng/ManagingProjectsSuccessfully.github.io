@@ -30,13 +30,13 @@ Demnach ist das Team lediglich dafür zuständig das vom Kunden geforderte Produ
 * [Sprint](Sprint.md)
 * [Daily](Daily_Scrum.md)
 * [Sprint Review](Sprint_Review.md)
-* [Sprint Retrospective](Retrospektive.md)
+* [Sprint Retrospective](Retrospective.md)
 * [Sprint Planning](Sprint_Planning.md)
 
 Ein [Sprint](Sprint.md) ist ein festgelegter Zeitraum, in welchem die sonstigen Events stattfinden. Die Länge eines [Sprints](Sprint.md) zu Anfang eines Projekts festgelegt und kann zum Beispiel eine zwei oder bis zu vier Wochen umfassen. [^3]
 Täglich findet während eines [Sprints](Sprint.md) das [Daily](Daily_Scrum.md) statt. Hiermit wird die Kommunikation zwischen den Teammitgliedern gefördert sowie ein konstanter Austausch über die erreichten Fortschritte. Dabei sollen Impediments sichtbar gemacht werden genauso wie die Zusammenarbeit gesteigert werden. [^3]
 Im [Sprint Review](Sprint_Review.md) wird dann der abgeschlossene [Sprint](Sprint.md) bewertet. Dabei wird optimalerweise ein neues [Product Increment](Increment.md) betrachtet und die erreichten Fortschritte durchgesprochen. Hier sollte durch die Stakeholder auch ein Feedback gegeben werden. [^3]
-Während einer [Sprint Retrospective](Retrospektive.md) wird in kurzer Zeit die Arbeitsweise des [Sprints](Sprint.md) bewertet. So können hier Erfolge gelobt werden und Verbesserungsvorschläge eingebracht werden, welche das Team zu einer gesteigerten Produktivität sowie mehr Freude an der Arbeit verhelfen soll. [^3]
+Während einer [Sprint Retrospective](Retrospective.md) wird in kurzer Zeit die Arbeitsweise des [Sprints](Sprint.md) bewertet. So können hier Erfolge gelobt werden und Verbesserungsvorschläge eingebracht werden, welche das Team zu einer gesteigerten Produktivität sowie mehr Freude an der Arbeit verhelfen soll. [^3]
 Im [Sprint Planning](Sprint_Planning.md) wird schließlich der neu startende [Sprint](Sprint.md) geplant werden. Dafür muss das Product Backlog, welches in einem Backlog Refinement priorisiert wurde, herangezogen werden. Die wichtigsten Aufgaben werden in den neuen [Sprint](Sprint.md) mitaufgenommen. Oft werden hierfür Tools wie Jira benutzt. [^3]
 
 ## Die 3 Artefakte
@@ -58,7 +58,7 @@ Am Ende eines [Sprints](Sprint.md) wird angestrebt ein potenziell lieferbares Pr
 * [Sprint](Sprint.md)
 * [Daily](Daily_Scrum.md)
 * [Sprint Review](Sprint_Review.md)
-* [Sprint Retrospective](Retrospektive.md)
+* [Sprint Retrospective](Retrospective.md)
 * [Sprint Planning](Sprint_Planning.md)
 * [Product Backlog](Product_Backlog.md)
 * [Product Increment](Increment.md)

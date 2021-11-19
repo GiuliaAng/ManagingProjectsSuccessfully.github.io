@@ -1,17 +1,17 @@
 ---
 title: The_3_5_3_of_Scrum
-tags: klassisch
+tags: agil
 author: GiuliaAng
-anrechnung: k
+anrechnung: a
 ---
 
 # The 3-5-3 of SCRUM
 
 The 3-5-3 of Scrum umfasst die Methode, nach der sich ein agiles Team in ihrem Projekt organisiert. Hierbei steht 3-5-3 für folgendes: [^1]
 
+### 3 Roles - 5 Events - 3 Attributes
 
-
-Dies folgt aus dem erweiterten Verständnis für die allgemeine Definition von SCRUM. Dabei wird SCRUM anhand eines 5-3-5-3-3 Modelles erklärt und erweitert das 3-5-3 Modell um 5 Werte und 3 Verpflichtungen. Genauer eingegangen auf die SCRUM Methode wird unter XXX.
+Dies folgt aus dem erweiterten Verständnis für die allgemeine Definition von SCRUM. Dabei wird SCRUM anhand eines 5-3-5-3-3 Modelles erklärt und erweitert das 3-5-3 Modell um 5 Werte und 3 Verpflichtungen. 
 
 ![Grundprinzip](The_3_5_3_of_Scrum/Uebersicht.jpg)
 

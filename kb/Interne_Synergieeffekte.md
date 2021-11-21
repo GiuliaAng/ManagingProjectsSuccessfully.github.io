@@ -5,7 +5,6 @@ author: GiuliaAng
 anrechnung: k
 ---
 
-
 ### Definition: Synergieeffekt
 
 Ein Synergieeffekt ist eine positive Wirkung oder Resultat, welches durch einen Zusammenschluss oder eine Zusammenarbeit entsteht. Sie entstehen häufig durch Kostenersparnisse, die wiederum zu einem Wettbewerbsvorteil führen. [^1]
